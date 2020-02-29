@@ -1,13 +1,13 @@
 <annotation>
-	<folder>Unlabeled</folder>
-	<filename>13.jpg</filename>
-	<path>C:\Users\Kevin\Documents\School\WheresWaldo\Unlabeled\13.jpg</path>
+	<folder>ReshapedImages</folder>
+	<filename>reshaped13.jpg</filename>
+	<path>C:\Users\Kevin\Documents\School\WheresWaldo\ReshapedImages\reshaped13.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
 	<size>
 		<width>1280</width>
-		<height>864</height>
+		<height>800</height>
 		<depth>3</depth>
 	</size>
 	<segmented>0</segmented>
@@ -17,10 +17,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>928</xmin>
-			<ymin>275</ymin>
-			<xmax>950</xmax>
-			<ymax>316</ymax>
+			<xmin>929</xmin>
+			<ymin>254</ymin>
+			<xmax>946</xmax>
+			<ymax>286</ymax>
 		</bndbox>
 	</object>
 </annotation>
