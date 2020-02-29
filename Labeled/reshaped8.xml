@@ -1,0 +1,26 @@
+<annotation>
+	<folder>ReshapedImages</folder>
+	<filename>reshaped8.jpg</filename>
+	<path>C:\Users\Kevin\Documents\School\WheresWaldo\ReshapedImages\reshaped8.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1280</width>
+		<height>800</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>waldo</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>532</xmin>
+			<ymin>130</ymin>
+			<xmax>548</xmax>
+			<ymax>173</ymax>
+		</bndbox>
+	</object>
+</annotation>
