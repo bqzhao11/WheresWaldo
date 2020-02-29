@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Unlabeled</folder>
+	<filename>7.jpg</filename>
+	<path>C:\Users\Kevin\Documents\School\WheresWaldo\Unlabeled\7.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1949</width>
+		<height>1419</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>waldo</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>808</xmin>
+			<ymin>951</ymin>
+			<xmax>890</xmax>
+			<ymax>1087</ymax>
+		</bndbox>
+	</object>
+</annotation>
