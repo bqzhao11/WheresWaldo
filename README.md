@@ -1,2 +1,2 @@
 # WheresWaldo
-new github
+HackIllinois 2020 Project
